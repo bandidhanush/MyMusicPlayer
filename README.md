@@ -7,7 +7,7 @@
 
 ## MyMusicPlayer
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Dhanush](https://github.com/bandidhanush/Portfolio.git). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Dhanush](https://github.com/bandidhanush/MyMusicPlayer.git). Thanks!
 
 ## Built With
 
